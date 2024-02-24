@@ -1,1 +1,1 @@
-# aaai_pose_estimation
+Diabetic Retinopathy Image Classification using a ResNet152V2, BigTransfer and a ViT

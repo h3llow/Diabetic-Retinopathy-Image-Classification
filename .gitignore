@@ -1,2 +1,7 @@
-.idea
-project1/wandb
+test/
+train/
+wandb/
+bit_checkpoints/
+vit_checkpoints/
+__pycache__/
+*.pth
